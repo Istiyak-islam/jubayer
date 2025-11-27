@@ -1,6 +1,6 @@
 Flask==2.3.2
 Flask-Login==0.6.3
-Flask-SQLAlchemy==3.0.3
+Flask-SQLAlchemy==1.4.54
 SQLAlchemy==2.0.19
 Werkzeug==2.3.7
 Jinja2==3.1.4
@@ -9,3 +9,4 @@ itsdangerous==2.1.2
 gunicorn==20.1.0
 requests==2.32.3
 python-dotenv==1.0.1
+
